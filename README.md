@@ -1,54 +1,71 @@
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omarghandour&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=omarghandour&locale=en&mode=daily&theme=default&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=omarghandour&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+# 👋 Hi, I'm Omar Ghandour
 
-###
+**Tech Lead & Co-Founder at [Black Waves](https://blackwaveseg.com) — Building SaaS from Egypt to the world.**
 
-<img align="right" height="150" src="https://media.giphy.com/media/tHIRLHtNwxpjIFqPdV/giphy.gif?cid=82a1493bklalmer0qejmwjijlr0ckldh3mg0pnok3lfc49rl&ep=v1_gifs_trending&rid=giphy.gif&ct=g"  />
+---
 
-###
+## 🚀 About Me
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="30" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-</div>
+I'm a passionate Tech Lead and co-founder at Black Waves, where I architect and build scalable SaaS solutions empowering businesses globally. Coding from Egypt, I believe in creating technology that makes a real impact—locally and internationally.
 
-###
+- **Languages:** TypeScript
+- **Frontend:** React, Next.js, Vite
+- **Backend:** Node.js, Bun, Express.js, Elysia.js
+- **Databases:** PostgreSQL (SQL), MongoDB (NoSQL)
+- **Cloud & DevOps:**  
+  - **Provider:** AWS  
+  - **Deployment:** Self-hosting on Ubuntu VPS (Coolify)  
+  - **Containerization:** Docker  
+  - **CI/CD:** GitHub Actions
+- **Architecture & APIs:** Hybrid Microservices/Monolith, REST APIs
+- **Testing:** Jest (Unit & Integration), Cypress (End-to-End)
+- **Observability & Project Management:** Sentry, Jira, GitHub Projects
 
-<div align="center">
-  <a href="https://www.instagram.com/omarrghandour/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="omarkhaled9913@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/omar-mousa-378b98261/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://x.com/OmarGhandour19" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-  </a>
-</div>
+---
 
-###
+## 🔥 GitHub Streak
+[![GitHub Streak](https://streak-stats.demolab.com/?user=omarghandour)](https://git.io/streak-stats)
 
-<br clear="both">
+[![GitHub Streak](https://streak-stats.demolab.com?user=omarghandour&theme=tokyonight&hide_border=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
-<img src="https://raw.githubusercontent.com/omarghandour/omarghandour/output/snake.svg" alt="Snake animation" />
+---
 
-###
+## 🌟 Featured Project
+
+### Money Waves
+<!-- Add your logo below: -->
+<p align="left">
+  <img width="200" alt="MW(1)" src="https://github.com/user-attachments/assets/8a5b10be-b026-4506-beb7-0e12ae100214" />
+
+</p>
+A multi-tenant SaaS for E-Commerce—an Egyptian alternative to Shopify.   
+
+> **Why I'm proud:** Money Waves is designed to empower local businesses and entrepreneurs with world-class tools, tailored for the Egyptian market.
+*Currently under development—stay tuned for the MVP launch!*
+
+---
+
+## 🛠️ Recent Projects
+
+- [Clocky](https://clockyeg.com) — An E-Commerce for watch enthusiasts worldwide .
+- [Saleh Farid](https://salehfarid.com) — An E-Learning platform .
+- [Dr. Eman Sanad](https://dremansanad.com) — Skin Station Clinics .
+
+---
+
+## 📬 Connect With Me
+
+- [Instagram](https://www.instagram.com/omarrghandour) <!-- Replace with your username/link -->
+- [X (Twitter)](https://twitter.com/OmarGhandour19)
+- [Threads](https://www.threads.com/@omarrghandour)
+- [LinkedIn](https://www.linkedin.com/in/omar-mousa-378b98261)
+
+---
+
+## ♟️ Fun Fact
+
+When I’m not building SaaS, you’ll likely find me at the chessboard—always thinking a few moves ahead.
+
+---
+
+> *Let's connect and build something amazing together!*
