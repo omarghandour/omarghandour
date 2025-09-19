@@ -32,7 +32,7 @@ I'm a passionate Tech Lead and co-founder at Black Waves, where I architect and 
 ## 🌟 Featured Project
 
 ### Money Waves
-<!-- Add your logo below: -->
+
 <p align="left">
   <img width="200" alt="MW(1)" src="https://github.com/user-attachments/assets/8a5b10be-b026-4506-beb7-0e12ae100214" />
 
