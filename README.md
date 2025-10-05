@@ -60,7 +60,7 @@ A multi-tenant SaaS for E-Commerce—an Egyptian alternative to Shopify.
 
 ---
 
-## ♟️ Fun Fact
+## ♟️ Fun Fact 
 
 When I’m not building SaaS, you’ll likely find me at the chessboard—always thinking a few moves ahead.
 
