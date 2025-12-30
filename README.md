@@ -25,7 +25,7 @@ I'm a passionate Tech Lead and co-founder at Black Waves, where I architect and 
 
 ## 🔥 GitHub Streak
 
-[![Omar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=omarghandour&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/omarghandour/github-readme-stats)
+[![Omar's Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=omarghandour&theme=tokyonight)](https://github.com/omarghandour)
 
 ---
 
