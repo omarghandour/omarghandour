@@ -45,7 +45,7 @@ A multi-tenant SaaS for E-Commerce—an Egyptian alternative to Shopify.
 
 ## 🛠️ Recent Projects
 
-- [Clocky](https://clockyeg.com) — An E-Commerce for watch enthusiasts worldwide .
+- [Qwareer](https://qwareer-egy.com) — An E-Commerce for beauty .
 - [Saleh Farid](https://salehfarid.com) — An E-Learning platform .
 - [Dr. Eman Sanad](https://dremansanad.com) — Skin Station Clinics .
 
