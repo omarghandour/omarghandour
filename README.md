@@ -10,7 +10,7 @@ I'm a passionate Tech Lead and co-founder at Black Waves, where I architect and 
 
 - **Languages:** TypeScript
 - **Frontend:** React, Next.js, Vite
-- **Backend:** Node.js, Bun, Express.js, Elysia.js
+- **Backend:** Bun, Node.js, Express.js, Elysia.js
 - **Databases:** PostgreSQL (SQL), MongoDB (NoSQL)
 - **Cloud & DevOps:**  
   - **Provider:** AWS  
