@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Omar Ghandour
 
-**Tech Lead & Co-Founder at [Black Waves](https://blackwaveseg.com) — Building SaaS from Egypt to the world.**
+**Tech Lead & Co-Founder at [Sorvien](https://sorvien.com) — Building SaaS from Egypt to the world.**
 
 ---
 
