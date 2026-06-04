@@ -1,69 +1,120 @@
-# 👋 Hi, I'm Omar Ghandour
+<div align="right">
+  <sub><code>Cairo, Egypt &nbsp;·&nbsp; BUILDING WHAT ENDURES &nbsp;·&nbsp; <a href="https://sorvien.com">sorvien.com</a></code></sub>
+</div>
 
-**Tech Lead & Co-Founder at [Sorvien](https://sorvien.com) — Building SaaS from Egypt to the world.**
+<br>
 
----
+# Omar. Building companies that outlast trends.
 
-## 🚀 About Me
+Founder of **Sorvien** — a software holding company structured to launch and operate multiple software subsidiaries under one roof. I build infrastructure for markets that major SaaS vendors treat as afterthoughts.
 
-I'm a passionate Tech Lead and co-founder at Black Waves, where I architect and build scalable SaaS solutions empowering businesses globally. Coding from Egypt, I believe in creating technology that makes a real impact—locally and internationally.
+Right now that means **Sorvien Core**: a multi-tenant e-commerce platform built specifically for Egyptian merchants. Not a Shopify clone — a ground-up rethink of what an e-commerce platform looks like when you build it *for* the market instead of *adapting* it to the market.
 
-- **Languages:** TypeScript
-- **Frontend:** React, Next.js, Vite
-- **Backend:** Bun, Node.js, Express.js, Elysia.js
-- **Databases:** PostgreSQL (SQL), MongoDB (NoSQL)
-- **Cloud & DevOps:**  
-  - **Provider:** AWS  
-  - **Deployment:** Self-hosting on Ubuntu VPS (Coolify)  
-  - **Containerization:** Docker  
-  - **CI/CD:** GitHub Actions
-- **Architecture & APIs:** Hybrid Microservices/Monolith, REST APIs
-- **Testing:** Jest (Unit & Integration), Cypress (End-to-End)
-- **Observability & Project Management:** Sentry, Jira, GitHub Projects
+> I'm not interested in building the next app. I'm interested in building the next company that builds the next ten apps.
+
+<br>
 
 ---
 
-## 🔥 GitHub Streak
+<br>
 
-[![Omar's Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=omarghandour&theme=tokyonight)](https://github.com/omarghandour)
+## Ventures
 
----
+| Company | Type | What it is | Status |
+|---|---|---|---|
+| **[Sorvien](https://sorvien.com)** | Holding | The parent. Owns the subsidiaries, sets the standards, holds the vision. | `LIVE` |
+| **Sorvien Core** | SaaS | E-commerce platform for Egypt. EGP billing, local gateways, merchant-first by design. | `BUILDING` |
+| **Sorvien Academy** | EdTech | Learning platform under the Sorvien umbrella. | `SOON` |
 
-## 🌟 Featured Project
-
-### Money Waves
-
-<p align="left">
-  <img width="200" alt="MW(1)" src="https://github.com/user-attachments/assets/8a5b10be-b026-4506-beb7-0e12ae100214" />
-</p>
-A multi-tenant SaaS for E-Commerce—an Egyptian alternative to Shopify.   
-
-> **Why I'm proud:** Money Waves is designed to empower local businesses and entrepreneurs with world-class tools, tailored for the Egyptian market.
-*Currently under development—stay tuned for the MVP launch!*
+<br>
 
 ---
 
-## 🛠️ Recent Projects
+<br>
 
-- [Qwareer](https://qwareer-egy.com) — An E-Commerce for beauty .
-- [Saleh Farid](https://salehfarid.com) — An E-Learning platform .
-- [Dr. Eman Sanad](https://dremansanad.com) — Skin Station Clinics .
+## Currently
+
+```javascript
+// Sorvien Arc — active development
+
+const Core = {
+  type:           "multi-tenant e-commerce SaaS",
+  market:         "Egypt — 105M people, underserved by every major platform",
+  differentiator: [
+    "billing in EGP, not USD",
+    "local payment gateway integration",
+    "storefront performance built for local infrastructure",
+    "merchant-owned data — no platform lock-in",
+  ],
+  architecture:   "multi-tenant · API-first · wildcard subdomain storefronts",
+}
+```
+
+<br>
 
 ---
 
-## 📬 Connect With Me
+<br>
 
-- [Instagram](https://www.instagram.com/omarrghandour) <!-- Replace with your username/link -->
-- [X (Twitter)](https://twitter.com/OmarGhandour19)
-- [Threads](https://www.threads.com/@omarrghandour)
-- [LinkedIn](https://www.linkedin.com/in/omar-mousa-378b98261)
+## Quotes that shaped how I build
 
----
+> "When you fall in love with the process rather than the product, you don't have to wait to give yourself permission to be happy. You can be satisfied anytime your system is running."
+— James Clear, Atomic Habits
 
-## ♟️ Fun Fact 
+<br>
 
-When I’m not building SaaS, you’ll likely find me at the chessboard—always thinking a few moves ahead.
+<br>
 
 ---
 
-> *Let's connect and build something amazing together!*
+<br>
+
+## How I think
+
+**01 &nbsp;— &nbsp;Infrastructure before features**
+Features are built on top of infrastructure. If the foundation is weak, every feature inherits that weakness. I build the foundation first, always.
+
+**02 &nbsp;— &nbsp;Brand is not decoration**
+The brand communicates before the product runs. A weak brand signals a weak product — even if the code is excellent. Identity gets locked before a single component is written.
+
+**03 &nbsp;— &nbsp;Build for the market, not for the market to adapt**
+Localization is not translation. It's rethinking the product from the ground up for the people who will actually use it.
+
+**04 &nbsp;— &nbsp;Subsidiaries, not pivots**
+A pivot signals you were wrong. A subsidiary signals you found something new worth building. The holding structure makes this possible without abandoning what came before.
+
+**05 &nbsp;— &nbsp;Restraint is a skill**
+The hardest decisions are about what not to build. Every feature is a commitment to maintain. Every dependency is a risk to manage.
+
+<br>
+
+---
+
+<br>
+
+## What building in Egypt actually feels like
+
+Building in Egypt feels like building in a cave.
+
+The infrastructure fights you. The market is years behind. Resources that developers elsewhere take for granted simply don't exist here. Payment systems fail. Local investors don't understand software. The people around you don't always believe what you're building is real until it's already done.
+
+And yet — the cave is exactly why I build here. The gap between where the market is and where it should be isn't a problem. It's the opportunity. Every constraint is a moat that someone who built somewhere easier can't cross.
+
+Sorvien exists because someone has to build for this market at the level it deserves. That might as well be me.
+
+<br>
+
+---
+
+<br>
+
+<div align="center">
+
+**Open to collaborations, consulting, and conversations worth having.**
+
+<sub><a href="https://sorvien.com">sorvien.com</a> &nbsp;·&nbsp; or just open an issue</sub>
+
+<br>
+
+<sub><code>SORVIEN &nbsp;·&nbsp; CAIRO, EG &nbsp;·&nbsp; BUILDING WHAT ENDURES</code></sub>
+</div>
